@@ -1,3 +1,3 @@
 print('Run_thu')
 
-print('Day la lan thu thu 2')
+print('Day la lan thu thu 2 chinh tren local')
